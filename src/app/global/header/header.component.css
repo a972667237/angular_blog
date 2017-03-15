@@ -24,3 +24,8 @@
 .nav_item button{
   height: 100%;
 }
+
+.navbar_cover{
+  height: 56px;
+  width: 100%;
+}
